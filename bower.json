@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "main": [
+    "bootstrap"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://portfolio.io",
+  "authors": [
+    "nattatoon <nattatorn.dev@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "personal profile",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "flexslider": "~2.5.0",
+    "jquery": "~2.1.4",
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}
